@@ -1,8 +1,8 @@
 {
-  "key": "rw-smart-checklists-staging",
+  "key": "rw-smart-checklists",
   "name": "Smart Checkists",
   "description": "Checkists for an issue.",
-  "baseUrl": "https://raw.githubusercontent.com/railsware/jira-checklists/staging",
+  "baseUrl": "https://dorialan.github.io/jira-checklist-staging",
   "vendor": {
     "name": "Railsware",
     "url": "http://railsware.com"
