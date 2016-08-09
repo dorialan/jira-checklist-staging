@@ -1,8 +1,8 @@
 {
-  "key": "rw-smart-checklists",
+  "key": "rw-smart-checklists-staging",
   "name": "Smart Checkists",
   "description": "Checkists for an issue.",
-  "baseUrl": "https://railsware.github.io",
+  "baseUrl": "https://raw.githubusercontent.com/railsware/jira-checklists/staging",
   "vendor": {
     "name": "Railsware",
     "url": "http://railsware.com"
@@ -13,12 +13,12 @@
   "links": {
     "documentation": "http://railsware.com"
   },
-  "version": "1.1",
+  "version": "1.2",
   "modules": {
     "webPanels": [
       {
         "location": "atl.jira.view.issue.right.context",
-        "url": "/jira-checklists/index.html",
+        "url": "/index.html",
         "key": "rw-checklist-issue-panel",
         "name": {
           "value": "Checklists"
